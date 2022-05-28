@@ -17,7 +17,7 @@ python gesture_controller.py
 
 ## Quick Execute By Clone this repository
     
-    git clone [https://github.com/luizhss/Gesture_Hand_Controller](https://github.com/prathameshshinde555/Gesture_Hand_Controller.git)
+    git clone https://github.com/prathameshshinde555/Gesture_Hand_Controller.git
     
 
 
